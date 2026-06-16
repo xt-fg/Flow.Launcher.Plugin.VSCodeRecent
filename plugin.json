@@ -1,0 +1,12 @@
+{
+  "ID": "cee1cdb5-07b3-495d-8c16-636035ab3a51",
+  "ActionKeyword": "{",
+  "Name": "VSCode Recent",
+  "Description": "Open recent VS Code folders/workspaces. Reads the current VS Code storage (storage.json: profileAssociations / backupWorkspaces / windowsState), so it works on VS Code builds that no longer write history.recentlyOpenedPathsList.",
+  "Author": "xt-fg",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/xt-fg/Flow.Launcher.Plugin.VSCodeRecent",
+  "IcoPath": "Images/code-light.png",
+  "ExecuteFileName": "main.py"
+}

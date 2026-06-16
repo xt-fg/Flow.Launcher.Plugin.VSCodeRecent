@@ -1,0 +1,3 @@
+# No third-party dependencies — this plugin is pure Python standard library.
+# This file exists only so the GitHub Actions release workflow's
+# `pip install -r requirements.txt -t ./lib` step succeeds (installs nothing).
